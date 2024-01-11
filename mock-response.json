@@ -1,0 +1,36 @@
+{
+  "id": "1000062010_6",
+  "assetId": "65017",
+  "registrationReference": {
+    "registrationId": "202306010005266",
+    "changeNumber": "4601274"
+  },
+  "amendRegistrationData": {
+    "collateralData": {
+      "collateralClass": "MOTOR_VEHICLE",
+      "collateralType": "COMMERCIAL",
+      "collateralDescription": ""
+    },
+    "spgInfo": {
+      "spgAccessCode": "000000000001",
+      "spgNumber": "100259015"
+    },
+    "registrationEndDate": "2030-06-01",
+    "addGrantors": [
+      {
+        "grantorId": "0000047021",
+        "number": "43102475",
+        "numberType": "ABN",
+        "grantorType": "ORGANISATION"
+      }
+    ],
+    "removeGrantors": [
+      {
+        "grantorId": "0000047021",
+        "number": "102475472",
+        "numberType": "ACN",
+        "grantorType": "ORGANISATION"
+      }
+    ]
+  }
+}
